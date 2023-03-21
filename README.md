@@ -4,6 +4,6 @@ The preface section of Introduction to Algorithms (3rd edition), which is known 
 ## Singular Value Dicomposition (SVD)
 This method can be called first rank approximate of the matrix. Using SVD for TD-IDF matrix, $A$ gives us $𝐴=𝑈Σ𝑉^𝑇$. The first column of U and V 
 indicate the most importance words and sentences respectively. First three sentences are:
-*.edu/algorithms/, links to solutions for a few of the problems and exercises.
-*.edu/algorithms/, links to solutions for some of the problems and exercises so that you can check your work.
-*.edu/algorithms/, links to these solutions.
+* edu/algorithms/, links to solutions for a few of the problems and exercises.
+* edu/algorithms/, links to solutions for some of the problems and exercises so that you can check your work.
+* edu/algorithms/, links to these solutions.

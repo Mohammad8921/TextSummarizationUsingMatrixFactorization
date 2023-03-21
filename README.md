@@ -5,5 +5,6 @@ The preface section of Introduction to Algorithms (3rd edition), which is known 
 This method can be called first rank approximate of the matrix. Using SVD for TD-IDF matrix, $A$ gives us $𝐴=𝑈Σ𝑉^𝑇$. The first column of U and V 
 indicate the most importance words and sentences respectively. First three sentences are:
 1.edu/algorithms/, links to solutions for a few of the problems and exercises.
+
 2.edu/algorithms/, links to solutions for some of the problems and exercises so that you can check your work.
 3.edu/algorithms/, links to these solutions.

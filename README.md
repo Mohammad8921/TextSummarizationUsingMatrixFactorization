@@ -1,9 +1,8 @@
 # Text Summarization Using Matrix Factorization
 ## Data preprocessing
-The preface section of Introduction to Algorithms (3rd edition), which is known as CLRS, was considered as the input text. This section of the book is approximately 7 pages long and contains 156 sentences. All punctuations and stop words were removed from the text and the words were stemmed. TD-IDF matrix were created for the text.
-## Singular Value Dicomposition (SVD)
-This method can be called first rank approximate of the matrix. Using SVD for TD-IDF matrix, $A$ gives us $𝐴=𝑈Σ𝑉^𝑇$. The first column of U and V 
-indicate the most importance words and sentences respectively. First three sentences are:
+The preface section of the Introduction to Algorithms (3rd edition) book written by Cormen et. al., which is known as CLRS, was considered as the input text. This section of the book is approximately 7 pages long and contains 156 sentences. All punctuations and stop words were removed from the text and the words were stemmed. Finally, the TD-IDF matrix, $A$ was created for the text.
+## Singular Value Decomposition (SVD)
+This method can be called the first rank approximate of the matrix. applying SVD on $A$ results in $𝐴=𝑈Σ𝑉^𝑇$. The first column of U and V indicate the most important words and sentences respectively. the first three sentences in the ranking of importance are:
 1. edu/algorithms/, links to solutions for a few of the problems and exercises.
 2. edu/algorithms/, links to solutions for some of the problems and exercises so that you can check your work.
 3. edu/algorithms/, links to these solutions.
